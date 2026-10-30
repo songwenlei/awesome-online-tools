@@ -35,18 +35,21 @@
 
 ## Developer Tools
 
+- [PKPASS Viewer](https://pkpassviewer.com/) - Open Apple Wallet .pkpass files in any browser without an app.
 - [RunDev](https://run-dev.com) - 55+ dev tools: JSON formatter, regex tester, Base64 encoder, code minifier.
 - [DevDocs](https://devdocs.io) - API documentation browser.
 - [JSON Editor Online](https://jsoneditoronline.org) - Edit and format JSON.
 
 ## Image Tools
 
+- [Cross Stitch Pattern Maker](https://crossstitchpatternmaker.org/) - Turn a photo into a printable cross stitch chart with DMC thread numbers.
 - [ImgKit](https://img-kit.com) - 50+ image tools: resize, compress, convert, format changer.
 - [TinyPNG](https://tinypng.com) - Smart PNG and JPEG compression.
 - [Squoosh](https://squoosh.app) - Image compression by Google.
 
 ## PDF Tools
 
+- [EML to PDF](https://emltopdf.net/) - Open .eml, .msg and .mbox email files in the browser and save each email as a PDF.
 - [ThePDF](https://the-pdf.com) - 55+ PDF tools: merge, split, compress, convert, edit.
 - [iLovePDF](https://www.ilovepdf.com) - PDF tools collection.
 - [SmallPDF](https://smallpdf.com) - PDF tools and converter.
@@ -71,6 +74,8 @@
 
 ## Generators
 
+- [Data Matrix Generator](https://data-matrix-generator.com/) - Make Data Matrix and GS1 DataMatrix codes as PNG, SVG or PDF.
+- [Seating Chart Generator](https://seating-chart-generator.com/) - Seat a guest list at tables and print the chart and place cards.
 - [GenKit](https://gen-kit.com) - 65+ generators: QR codes, passwords, colors, lorem ipsum, barcodes.
 - [QR Code Generator](https://www.qr-code-generator.com) - Create QR codes.
 - [1Password Generator](https://1password.com/password-generator/) - Secure password generator.
